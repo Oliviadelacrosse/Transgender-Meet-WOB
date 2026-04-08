@@ -16,3 +16,9 @@ img {
     height: auto;
     border-radius: 10px;
 }
+
+h2 {
+  font-size: 2rem;   /* größer */
+  font-weight: bold;
+  margin-top: 1.5rem;
+}
